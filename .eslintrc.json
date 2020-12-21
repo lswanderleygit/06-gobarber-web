@@ -28,6 +28,7 @@
     "prettier/prettier": "error",
     "semi": ["error", "never"],
     "camelcase": "off",
+    "no-use-before-define": "off"
     "@typescript-eslint/camelcase": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
