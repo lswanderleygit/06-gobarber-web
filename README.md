@@ -5,3 +5,5 @@
 ```yarn add react-icons```
 
 ```yarn add polished```
+
+```yarn add @unform/core @unform/web```
