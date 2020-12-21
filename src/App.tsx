@@ -1,7 +1,13 @@
 import React from 'react'
-import logo from './logo.svg'
-import './App.css'
 
-const App: React.FC = () => <h1>Hello World</h1>
+import SignIn from './pages/Signin'
+import GlobalStyle from './styles/global'
+
+const App: React.FC = () => (
+  <>
+    <SignIn />
+    <GlobalStyle />
+  </>
+)
 
 export default App
