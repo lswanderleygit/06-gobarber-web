@@ -7,3 +7,5 @@
 ```yarn add polished```
 
 ```yarn add @unform/core @unform/web```
+
+```yarn add yup```
