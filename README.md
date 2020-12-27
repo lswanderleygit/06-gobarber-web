@@ -11,3 +11,5 @@
 ```yarn add yup```
 
 ```yarn add axios```
+
+```yarn add uuid```
