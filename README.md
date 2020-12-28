@@ -13,3 +13,5 @@
 ```yarn add axios```
 
 ```yarn add uuid```
+
+```yarn add react-sprint```
